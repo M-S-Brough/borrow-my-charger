@@ -65,11 +65,6 @@ This project was developed over two assignments:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots or demo GIFs here if you have them._
-
----
 
 ## 🧠 Why This Project?
 
