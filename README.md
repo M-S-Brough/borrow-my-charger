@@ -92,7 +92,5 @@ This project was created as coursework for the *Client Server Systems* module (C
 
 ## 👨‍🎓 Author
 
-**Your Name**  
-University of Salford  
-Student ID: [Your ID]  
-Module Leader: Lee Griffiths
+Mark Brough  
+University of Salford 
